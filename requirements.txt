@@ -1,0 +1,12 @@
+opencv-python
+mediapipe
+numpy
+pyopengl
+PyOpenGL_accelerate
+pillow
+pyttsx3
+SpeechRecognition
+pyaudio
+scikit-image
+matplotlib
+trimesh
